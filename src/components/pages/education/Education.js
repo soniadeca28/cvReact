@@ -10,13 +10,7 @@ class Education extends Component {
 
                         <h6>
 
-                            <strong>
-
-                                <i class="fas fa-graduation-cap"></i>
-
-                                Education
-
-                            </strong>
+                            <strong><i class="fas fa-graduation-cap"></i> Education</strong>
 
                         </h6>
 
