@@ -20,14 +20,13 @@ class Home extends Component {
                     <div className="col s12 m12 l4 blue darken-4 sameHeight_child">
                         <Profile/>
                         <Contact/>
-                        <Info/>
                         <Digital/>
                         <Language/>
                         <Certificates/>
                         <Hobbies/>
 
                     </div>
-                    <div className="col s12 m12 l8 white sameHeight_child">
+                    <div className="col s12 m12 l8 white lighten-5 sameHeight_child">
                         <About/>
                         <Education/>
                         <Courses/>

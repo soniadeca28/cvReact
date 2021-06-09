@@ -23,14 +23,14 @@ class Profile extends Component {
                         <p className="solid">
                             <a href="https://www.facebook.com/Sonii282312/" target="blank">
                                 <i className="fab white-text fa-facebook-square fa-2x"></i>
-                            </a></p>
+                            </a>
                         <a href="https://github.com/soniadeca28" target="blank">
                             <i className="fab white-text fa-github-square fa-2x"></i>
                         </a>
                         <a className="item item-icon-right" href="https://www.linkedin.com/in/sonia-ariadna-deca-5649251bb/"
                            target="blank">
                             <i className="fab white-text text-lighten-1 fa-linkedin fa-2x"></i>
-                        </a>
+                        </a></p>
                     </div>
                 </div>
                 <div className="card blue darken-4 z-depth-0">
@@ -38,14 +38,22 @@ class Profile extends Component {
                 <div className="card-content">
                     <h6 className="white-text">
 
-                        <strong>#Profile</strong>
+                        <i className="fas fa-solid fa-user"></i>
+
+                        <strong> Profile</strong>
 
                     </h6>
 
                     <hr/>
 
-                    <p className="white-text text-lighten-3 pt"></p>
+                    <p className="white-text text-lighten-3 pt">
+
                         Curu duru
+
+                    </p>
+
+
+
                 </div>
 
 
