@@ -177,6 +177,16 @@ class Digital extends Component {
                                     <div className="determinate grey" style={{width : '80%' }}></div>
                                 </div>
                             </div>
+
+                            <div className="col m6 s12">
+                                <p className="grey-text text-lighten-3">
+                                    Photoshop
+                                </p>
+                                <div className="progress white">
+                                    <div className="determinate grey" style={{width : '30%' }}></div>
+                                </div>
+                            </div>
+
                         </div>
 
 
