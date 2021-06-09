@@ -18,7 +18,7 @@ class Profile extends Component {
                                 Sonia-Ariadna Deca
                             </strong>
                         </h2>
-                        <h5 className="white-text text-darken-3">Student</h5>
+                        <h5 className="grey-text text-lighten-3">Student</h5>
 
                         <p className="solid">
                             <a href="https://www.facebook.com/Sonii282312/" target="blank">
@@ -35,7 +35,18 @@ class Profile extends Component {
                 </div>
                 <div className="card blue darken-4 z-depth-0">
 
+                <div className="card-content">
+                    <h6 className="white-text">
 
+                        <strong>#Profile</strong>
+
+                    </h6>
+
+                    <hr/>
+
+                    <p className="white-text text-lighten-3 pt"></p>
+                        Curu duru
+                </div>
 
 
 
