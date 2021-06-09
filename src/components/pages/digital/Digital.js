@@ -10,7 +10,9 @@ class Digital extends Component {
 
                         <h6 className="white-text">
 
-                            <strong>#Digital Skills</strong>
+                            <i class="fas fa-solid fa-code"></i>
+
+                            <strong> Digital Skills</strong>
 
 
                         </h6>

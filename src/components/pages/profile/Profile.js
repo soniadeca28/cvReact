@@ -48,7 +48,11 @@ class Profile extends Component {
 
                     <p className="white-text text-lighten-3 pt">
 
-                        Curu duru
+                        Some of my strongest points are my colorful personality, well-rounded team
+                        spirit and ability to adapt to new, unforeseen situations.
+                        I chose this industry because it uninterruptedly challenges me.
+                        My greatest passions are object-oriented programming and web design.
+
 
                     </p>
 
