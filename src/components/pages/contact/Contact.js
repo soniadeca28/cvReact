@@ -10,7 +10,9 @@ class Contact extends Component {
 
                         <h6 className="white-text">
 
-                            <strong>#Contact</strong>
+                            <i class="fas fa-solid fa-phone"></i>
+
+                            <strong> Contact</strong>
 
 
                     <hr/>
