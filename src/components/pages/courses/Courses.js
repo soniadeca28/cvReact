@@ -12,7 +12,7 @@ class Courses extends Component {
 
                         <h6>
 
-                            <strong><i class="fas fa-solid fa-laptop-code"></i> Courses & Labs</strong>
+                            <strong><i class="fas fa-solid fa-star"></i> Courses & Labs</strong>
 
                         </h6>
 

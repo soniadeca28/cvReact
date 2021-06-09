@@ -91,7 +91,7 @@ class Digital extends Component {
                                     JavaScript
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '20%' }}></div>
+                                    <div className="determinate grey" style={{width : '10%' }}></div>
                                 </div>
                             </div>
 
@@ -121,7 +121,7 @@ class Digital extends Component {
                                     React
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '20%' }}></div>
+                                    <div className="determinate grey" style={{width : '10%' }}></div>
                                 </div>
                             </div>
                         </div>
@@ -183,7 +183,7 @@ class Digital extends Component {
                                     Photoshop
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '30%' }}></div>
+                                    <div className="determinate grey" style={{width : '20%' }}></div>
                                 </div>
                             </div>
 
