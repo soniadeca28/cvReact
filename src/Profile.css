@@ -1,0 +1,14 @@
+p {
+    white-space: nowrap;
+}
+h1 {
+    word-spacing: 10px;
+}
+div {
+    text-align: justify;
+}
+p {outline-color:white;}
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
