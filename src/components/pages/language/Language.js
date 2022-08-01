@@ -16,7 +16,7 @@ class Language extends Component {
                             <strong> Language Skills </strong>
 
 
-                        </h6>
+
 
 
                         <hr/>
@@ -73,7 +73,7 @@ class Language extends Component {
                         </h6>
 
 
-
+                        </h6>
                     </div>
 
                 </div>

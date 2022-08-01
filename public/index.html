@@ -26,6 +26,19 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+
+    <script src="jsPDF/dist/jspdf.min.js"></script>
+
+    <script>
+      function generatePDF()
+      {
+        var doc = new jsPDF();
+        doc.text(20,20,'generate pdf');
+
+        doc.save('Sonia_Deca_CV.pdf');
+      }
+    </script>
+
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>

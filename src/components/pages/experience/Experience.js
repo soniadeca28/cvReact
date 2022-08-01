@@ -22,7 +22,10 @@ class Experience extends Component {
                                 <blockquote>
                                     <h6 className="no-pad mt-bottom">
                                         <strong>
-                                            Elektrobit Automotive Romania
+                                            <text style={{fontWeight: "bold"}}>
+                                                Elektrobit Automotive Romania
+                                            </text>
+
                                         </strong>
                                         <span> July 2021 - present </span>
                                     </h6>
@@ -47,8 +50,6 @@ class Experience extends Component {
                                     </h6>
 
                                     <br/>
-
-
 
 
 

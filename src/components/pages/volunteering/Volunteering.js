@@ -21,16 +21,22 @@ class Volunteering extends Component {
                             <div className="col s12">
                                 <blockquote>
 
-                                    <p>
-                                        I volunteered all throughout my high school years and
-                                        managed to gain great communication and teamwork skills through my experience at Interact and WWF.
-                                    </p>
+                                    <h6>
+
+                                        I volunteered all throughout my high school years. Spending so much of my time surrounded
+                                            by inspiring, empowering people shaped me into the person I am today. It helped me
+                                            improve my communication, problem solving and teamwork skills,
+                                            challenging me to become a better version of myself.
+
+                                    </h6>
 
                                     <br/>
 
                                     <h6 className="no-pad mt-bottom">
                                         <strong>
+                                            <text style={{fontWeight: "bold"}}>
                                             Interact Resita
+                                            </text>
                                         </strong>
                                         <span> 2014 - 2018 </span>
                                     </h6>
@@ -39,7 +45,9 @@ class Volunteering extends Component {
 
                                     <h6 className="no-pad mt-bottom">
                                         <strong>
+                                            <text style={{fontWeight: "bold"}}>
                                             WWF Resita
+                                            </text>
                                         </strong>
                                         <span> 2016 - 2017 </span>
                                     </h6>
