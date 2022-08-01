@@ -10,7 +10,9 @@ class Education extends Component {
 
                         <h6>
 
-                            <strong><i class="fas fa-graduation-cap"></i> Education</strong>
+                            <strong><i class="fas fa-graduation-cap"></i>
+                                Education
+                            </strong>
 
                         </h6>
 
@@ -22,7 +24,9 @@ class Education extends Component {
                                 <blockquote>
                                     <h6 className="no-pad mt-bottom">
                                         <strong>
+                                            <text style={{fontWeight: "bold"}}>
                                             University
+                                            </text>
                                         </strong>
                                         <span> 2018 - present </span>
                                     </h6>
@@ -52,7 +56,9 @@ class Education extends Component {
                                 <blockquote>
                                     <h6 className="no-pad mt-bottom">
                                         <strong>
+                                            <text style={{fontWeight: "bold"}}>
                                             High School
+                                            </text>
                                         </strong>
                                         <span> 2014 - 2018  </span>
                                     </h6>

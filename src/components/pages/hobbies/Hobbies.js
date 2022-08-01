@@ -12,7 +12,7 @@ class Hobbies extends Component {
 
                         <h6 className="white-text">
 
-                            <i class="fas fa-solid fa-palette"></i>
+                            <i class="fas fa-solid fa-palette"/>
 
                             <strong> Hobbies </strong>
 
@@ -23,7 +23,7 @@ class Hobbies extends Component {
                             <br/>
                             <p> Painting (oil, gouache) </p>
                             <br/>
-                            <p> Digital illustration </p>
+                            <p> Digital illustration (Photoshop) </p>
 
                         </h6>
 

@@ -15,7 +15,7 @@ class Digital extends Component {
                             <strong> Digital Skills</strong>
 
 
-                        </h6>
+
 
 
                         <hr/>
@@ -26,7 +26,7 @@ class Digital extends Component {
                                     Java
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '60%' }}></div>
+                                    <div className="determinate grey" style={{width : '65%' }}></div>
                                 </div>
                             </div>
 
@@ -35,27 +35,6 @@ class Digital extends Component {
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3">
                                     C
-                                </p>
-                                <div className="progress white">
-                                    <div className="determinate grey" style={{width : '65%' }}></div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div className="row pt">
-                            <div className="col m6 s12">
-                                <p className="grey-text text-lighten-3">
-                                    C++
-                                </p>
-                                <div className="progress white">
-                                    <div className="determinate grey" style={{width : '45%' }}></div>
-                                </div>
-                            </div>
-
-                            <div className="col m6 s12">
-                                <p className="grey-text text-lighten-3">
-                                    Prolog
                                 </p>
                                 <div className="progress white">
                                     <div className="determinate grey" style={{width : '50%' }}></div>
@@ -67,19 +46,42 @@ class Digital extends Component {
                         <div className="row pt">
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3">
+                                    C++
+                                </p>
+                                <div className="progress white">
+                                    <div className="determinate grey" style={{width : '50%' }}></div>
+                                </div>
+                            </div>
+
+                            <div className="col m6 s12">
+                                <p className="grey-text text-lighten-3">
                                     Bash script
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '60%' }}></div>
+                                    <div className="determinate grey" style={{width : '50%' }}></div>
                                 </div>
                             </div>
+
+                        </div>
+
+
+                        <div className="row pt">
 
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3">
                                     PHP
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '40%' }}></div>
+                                    <div className="determinate grey" style={{width : '20%' }}></div>
+                                </div>
+                            </div>
+
+                            <div className="col m6 s12">
+                                <p className="grey-text text-lighten-3">
+                                    Jira
+                                </p>
+                                <div className="progress white">
+                                    <div className="determinate grey" style={{width : '90%' }}></div>
                                 </div>
                             </div>
                         </div>
@@ -100,7 +102,7 @@ class Digital extends Component {
                                     HTML
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '70%' }}></div>
+                                    <div className="determinate grey" style={{width : '40%' }}></div>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +114,7 @@ class Digital extends Component {
                                     CSS
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '70%' }}></div>
+                                    <div className="determinate grey" style={{width : '40%' }}></div>
                                 </div>
                             </div>
 
@@ -121,39 +123,19 @@ class Digital extends Component {
                                     React
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '10%' }}></div>
+                                    <div className="determinate grey" style={{width : '20%' }}></div>
                                 </div>
                             </div>
                         </div>
 
                         <div className="row pt">
-                            <div className="col m6 s12">
-                                <p className="grey-text text-lighten-3">
-                                    Matlab
-                                </p>
-                                <div className="progress white">
-                                    <div className="determinate grey" style={{width : '30%' }}></div>
-                                </div>
-                            </div>
 
-                            <div className="col m6 s12">
-                                <p className="grey-text text-lighten-3">
-                                    Jira
-                                </p>
-                                <div className="progress white">
-                                    <div className="determinate grey" style={{width : '50%' }}></div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div className="row pt">
                             <div className="col m6 s12">
                                 <p className="grey-text text-lighten-3">
                                     GitHub
                                 </p>
                                 <div className="progress white">
-                                    <div className="determinate grey" style={{width : '60%' }}></div>
+                                    <div className="determinate grey" style={{width : '80%' }}></div>
                                 </div>
                             </div>
 
@@ -164,6 +146,30 @@ class Digital extends Component {
                                 <div className="progress white">
                                     <div className="determinate grey" style={{width : '70%' }}></div>
                                 </div>
+                            </div>
+
+                        </div>
+
+
+                        <div className="row pt">
+
+                            <div className="col m6 s12">
+                                <p className="grey-text text-lighten-3">
+                                    Photoshop
+                                </p>
+                                <div className="progress white">
+                                    <div className="determinate grey" style={{width : '20%' }}></div>
+                                </div>
+                            </div>
+
+                            <div className="col m6 s12">
+                                <p className="grey-text text-lighten-3">
+                                    Matlab
+                                </p>
+                                <div className="progress white">
+                                    <div className="determinate grey" style={{width : '20%' }}></div>
+                                </div>
+
                             </div>
                         </div>
 
@@ -178,19 +184,10 @@ class Digital extends Component {
                                 </div>
                             </div>
 
-                            <div className="col m6 s12">
-                                <p className="grey-text text-lighten-3">
-                                    Photoshop
-                                </p>
-                                <div className="progress white">
-                                    <div className="determinate grey" style={{width : '20%' }}></div>
-                                </div>
-                            </div>
-
                         </div>
 
 
-
+                        </h6>
                     </div>
 
                 </div>

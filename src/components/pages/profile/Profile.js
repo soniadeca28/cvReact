@@ -42,7 +42,7 @@ class Profile extends Component {
 
                         <strong> Profile</strong>
 
-                    </h6>
+
 
                     <hr/>
 
@@ -51,11 +51,10 @@ class Profile extends Component {
                         Some of my strongest points are my colorful personality, well-rounded team
                         spirit and ability to adapt to new, unforeseen situations.
                         I chose this industry because it uninterruptedly challenges me.
-                        My greatest passions are object-oriented programming and web design.
 
 
                     </p>
-
+                </h6>
 
 
                 </div>
